@@ -7,7 +7,7 @@ SPICLK = 11
 SPIMISO = 9
 SPIMOSI = 10
 SPICS = 8
-mq2_dpin = 26
+mq2_dpin = 12
 mq2_apin = 0
 
 #port init
